@@ -100,7 +100,7 @@ plt.show()
 ---
 Figure's of stock-
 
-![Figure_1 aapl](https://github.com/user-attachments/assets/59d87156-5ac8-42f0-b077-63a4101a9936)
+[Figure_1 aapl](https://github.com/user-attachments/assets/59d87156-5ac8-42f0-b077-63a4101a9936)
 
 
 
