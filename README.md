@@ -99,6 +99,6 @@ plt.show()
 - Integrate machine learning models for predictive stock price analysis.
 --
 
-![Image](https://github.com/user-attachments/assets/0192165f-81b8-48b4-9df1-908d9d81945f)
+
 
 
