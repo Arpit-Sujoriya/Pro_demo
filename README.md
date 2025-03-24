@@ -100,9 +100,13 @@ plt.show()
 ---
 Figure's of stock-
 ![Figure_1 aapl](https://github.com/user-attachments/assets/59d87156-5ac8-42f0-b077-63a4101a9936)
+
 ![Figure_1 microsoft](https://github.com/user-attachments/assets/cba6d89a-566d-42e9-81d7-328e85b8a61c)
+
 ![Figure_1 amazon](https://github.com/user-attachments/assets/dcc1d23b-e637-4fdd-a1a0-d15043901877)
+
 ![Figure_1 nvidia](https://github.com/user-attachments/assets/8292154c-4c98-4b1a-b3d8-cd5193e5a00e)
+
 ![Figure_1 tesla](https://github.com/user-attachments/assets/9be4bb69-9053-4d69-9534-df7e96d2acb5)
 
 
