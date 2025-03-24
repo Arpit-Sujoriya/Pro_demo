@@ -97,10 +97,7 @@ plt.show()
 - Enhance visualizations using interactive libraries like `seaborn` or `plotly`.
 - Automate data retrieval for periodic updates.
 - Integrate machine learning models for predictive stock price analysis.
----
-## **Figure's of stock**-
-
-![Figure_1 tesla](https://github.com/user-attachments/assets/7a12c931-1a79-458c-bb5b-34b1c93d2f94)
+--
 
 
 
