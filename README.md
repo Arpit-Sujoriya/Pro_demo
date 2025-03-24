@@ -101,6 +101,7 @@ plt.show()
 
 
 
+![Figure_1 aapl (1)](https://github.com/user-attachments/assets/ba3861c4-e6c8-4df5-b3c6-4884f3f5ce0b)
 
 
 
