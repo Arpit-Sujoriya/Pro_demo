@@ -98,8 +98,10 @@ plt.show()
 - Automate data retrieval for periodic updates.
 - Integrate machine learning models for predictive stock price analysis.
 ---
-Figure's of stock-
+## **Figure's of stock**-
 [Figure_1 aapl(figure_aapl png)](https://github.com/user-attachments/assets/a7956058-71af-4f94-9dbe-37ab27b2f728)
+
+![Figure_1 microsoft](https://github.com/user-attachments/assets/ed3a7b33-2cce-409b-938d-1b27584b9bc2)
 
 
 
